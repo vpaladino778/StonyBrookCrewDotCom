@@ -3,7 +3,7 @@
 }
 
 .recruitment-banner img {
-    width: 70%;
+    width: 50%;
     float: right;
 }
 
@@ -22,8 +22,8 @@
     padding-top: 10px;
 }
 .form-local {
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
     margin-bottom: 5%;
     margin-top: 15px;
     border-style: solid;
