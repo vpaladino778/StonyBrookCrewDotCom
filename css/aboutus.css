@@ -1,23 +1,26 @@
 .aboutus-entry-pinned {
-    width: 90%;
-    margin: auto;
-    margin-top: 30px;
-    padding: 20px;
+    width: 100%;
+    /*margin: auto;*/
+   /* margin-top: 15px; */
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .aboutus-entry {
-    width: 90%;
-    margin: auto;
-    margin-top: 60px;
+    width: 100%;
+    /*margin: auto;
+    margin-top: 60px;*/
     padding: 20px;
 }
 
 .image-entry-local {
-    width: 30.3%;
+    width: 50%;
     float: left;
     border-radius: 25px;
-    margin-left: 10px;
-    margin-right: 10px;
+    /*margin-left: 10px;
+    margin-right: 10px;*/
     padding: 10px;
     background-color: white;
 }
@@ -46,16 +49,16 @@
 
 .image-w-caption-local {
     width: 50%;
-    background-color: lightgray;
+   /* background-color: lightgray;*/
     float: left;
-    margin-left: 10px;
-    margin-right: 10px;
+   /* margin-left: 10px;
+    margin-right: 10px;*/
     padding: 10px;
 }
 
 .image-w-caption-local img{
-    width: auto;
-    height: 50vh;
+    width: 100%;
+    height: auto;
     float: none;
     border: 0;
     margin: auto;
@@ -77,7 +80,7 @@
 }
 
 .text-section-local{
-    width: 35%;
+    width: 50%;
     border-radius: 25px;
     padding-right: 10px;
     padding-left: 10px;
