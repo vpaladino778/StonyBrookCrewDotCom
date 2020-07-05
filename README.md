@@ -6,3 +6,7 @@ A redesign of the stony brook rowing team website.
 
 * Jakub Wlodek
 * Vincent Paladino
+
+### Secondary Contributors
+
+* Sampson Berlinski
