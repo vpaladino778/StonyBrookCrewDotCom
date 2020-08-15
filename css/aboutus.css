@@ -57,8 +57,8 @@
 }
 
 .image-w-caption-local img{
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 40em;
     float: none;
     border: 0;
     margin: auto;
@@ -82,8 +82,6 @@
 .text-section-local{
     width: 50%;
     border-radius: 25px;
-    padding-right: 10px;
-    padding-left: 10px;
     padding-top: 30px;
     border: 0;
     float: left;
